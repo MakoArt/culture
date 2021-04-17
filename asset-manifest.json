@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/culture/static/css/main.4fee3423.chunk.css",
+    "main.js": "/culture/static/js/main.40281daa.chunk.js",
+    "main.js.map": "/culture/static/js/main.40281daa.chunk.js.map",
+    "runtime-main.js": "/culture/static/js/runtime-main.cffe388a.js",
+    "runtime-main.js.map": "/culture/static/js/runtime-main.cffe388a.js.map",
+    "static/js/2.ff453dac.chunk.js": "/culture/static/js/2.ff453dac.chunk.js",
+    "static/js/2.ff453dac.chunk.js.map": "/culture/static/js/2.ff453dac.chunk.js.map",
+    "static/js/3.3de30402.chunk.js": "/culture/static/js/3.3de30402.chunk.js",
+    "static/js/3.3de30402.chunk.js.map": "/culture/static/js/3.3de30402.chunk.js.map",
+    "index.html": "/culture/index.html",
+    "static/css/main.4fee3423.chunk.css.map": "/culture/static/css/main.4fee3423.chunk.css.map",
+    "static/js/2.ff453dac.chunk.js.LICENSE.txt": "/culture/static/js/2.ff453dac.chunk.js.LICENSE.txt",
+    "static/media/008863841_prev.8ac3f619.mp3": "/culture/static/media/008863841_prev.8ac3f619.mp3",
+    "static/media/010804258_prev.3a843b4e.mp3": "/culture/static/media/010804258_prev.3a843b4e.mp3",
+    "static/media/Botonera.css": "/culture/static/media/violin-156558.bdb755be.svg",
+    "static/media/coy-5135969.14fbf32b.png": "/culture/static/media/coy-5135969.14fbf32b.png",
+    "static/media/perder-incorrecto-no-valido.2bc78385.mp3": "/culture/static/media/perder-incorrecto-no-valido.2bc78385.mp3",
+    "static/media/PaginaInicio.css": "/culture/static/media/sample-spritestrip.9f04dad2.png",
+    "static/media/street-fighter.2c36ff68.mp3": "/culture/static/media/street-fighter.2c36ff68.mp3",
+    "static/media/GameOver.css": "/culture/static/media/tree-575473.9eafe94f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cffe388a.js",
+    "static/js/2.ff453dac.chunk.js",
+    "static/css/main.4fee3423.chunk.css",
+    "static/js/main.40281daa.chunk.js"
+  ]
+}
